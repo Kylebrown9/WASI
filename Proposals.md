@@ -39,27 +39,27 @@ You can learn more about contributing new proposals (and other ways to contribut
 
 | Proposal                                                                       | Champion                               | Versions |
 | ------------------------------------------------------------------------------ | -------------------------------------- | -------- |
-| [Blob Store][wasi-blob-store]                                                  | Jiaxiao Zhou, Dan Chiarlone, David Justice |          | 
-| [Crypto][wasi-crypto]                                                          | Frank Denis and Daiki Ueno             |          |
-| [Digital I/O][wasi-digital-io]                      | Emiel Van Severen |          |
-| [Distributed Lock Service][wasi-distributed-lock-service]                      | Jiaxiao Zhou, Dan Chiarlone, David Justice |          |
-| [gRPC][wasi-grpc]                                                              | Jiaxiao Zhou, Dan Chiarlone, David Justice, Piotr Sikora |          |
-| [HTTP][wasi-http]                                                              | Piotr Sikora, Jiaxiao Zhou, Dan Chiarlone, David Justice |          |
-| [I2C][wasi-i2c]                      | Emiel Van Severen |          |
-| [Key-value Store][wasi-kv-store]                                               | Jiaxiao Zhou, Dan Chiarlone, David Justice |          |
-| [Logging][wasi-logging]                                               | Dan Gohman |          |
-| [Message Queue][wasi-message-queue]                                            | Jiaxiao Zhou, Dan Chiarlone, David Justice |          |
-| [Parallel][wasi-parallel]                                                      | Andrew Brown                           |          |
-| [Patern Match][wasi-pattern-match]                                                      | Jianjun Zhu                           |          |
-| [Pub/sub][wasi-pubsub]                                                         | Jiaxiao Zhou, Dan Chiarlone, David Justice |          |
-| [Runtime Config][wasi-runtime-config]                                          | Jiaxiao Zhou, Dan Chiarlone, David Justice |          |
-| [Sockets][wasi-sockets]                                                        | Dave Bakker                            |          |
-| [SPI][wasi-spi]                      | Emiel Van Severen |          |
-| [SQL][wasi-sql]                                                                | Jiaxiao Zhou, Dan Chiarlone, David Justice |          |
-| [SQL Embed][wasi-sql-embed]                                                                | Kyle Brown |          |
-| [Threads][wasi-threads]                                                        | Alexandru Ene, Marcin Kolny, Andrew Brown |          |
-| [URL][wasi-url]                                                                | Radu Matei       |          |
-| [CLI][wasi-cli]                                                                | Dan Gohman                             |          |
+| [Blob Store][wasi-blob-store]                                                  | Jiaxiao Zhou, Dan Chiarlone, David Justice | | 
+| [Crypto][wasi-crypto]                                                          | Frank Denis and Daiki Ueno | |
+| [Digital I/O][wasi-digital-io]                                                 | Emiel Van Severen | |
+| [Distributed Lock Service][wasi-distributed-lock-service]                      | Jiaxiao Zhou, Dan Chiarlone, David Justice | |
+| [gRPC][wasi-grpc]                                                              | Jiaxiao Zhou, Dan Chiarlone, David Justice, Piotr Sikora | |
+| [HTTP][wasi-http]                                                              | Piotr Sikora, Jiaxiao Zhou, Dan Chiarlone, David Justice | |
+| [I2C][wasi-i2c]                                                                | Emiel Van Severen | |
+| [Key-value Store][wasi-kv-store]                                               | Jiaxiao Zhou, Dan Chiarlone, David Justice | |
+| [Logging][wasi-logging]                                                        | Dan Gohman | |
+| [Message Queue][wasi-message-queue]                                            | Jiaxiao Zhou, Dan Chiarlone, David Justice | |
+| [Parallel][wasi-parallel]                                                      | Andrew Brown | |
+| [Pattern Match][wasi-pattern-match]                                            | Jianjun Zhu | |
+| [Pub/sub][wasi-pubsub]                                                         | Jiaxiao Zhou, Dan Chiarlone, David Justice | |
+| [Runtime Config][wasi-runtime-config]                                          | Jiaxiao Zhou, Dan Chiarlone, David Justice | |
+| [Sockets][wasi-sockets]                                                        | Dave Bakker | |
+| [SPI][wasi-spi]                                                                | Emiel Van Severen | |
+| [SQL][wasi-sql]                                                                | Jiaxiao Zhou, Dan Chiarlone, David Justice | |
+| [SQL Embed][wasi-sql-embed]                                                    | Kyle Brown | |
+| [Threads][wasi-threads]                                                        | Alexandru Ene, Marcin Kolny, Andrew Brown | |
+| [URL][wasi-url]                                                                | Radu Matei | |
+| [CLI][wasi-cli]                                                                | Dan Gohman | |
 
 ### Phase 0 - Pre-Proposal (CG)
 
@@ -68,7 +68,7 @@ You can learn more about contributing new proposals (and other ways to contribut
 | Proposal                                                                       | Champion                               | Versions |
 | ------------------------------------------------------------------------------ | -------------------------------------- | -------- |
 | [singlestore-labs/wasi-data][wasi-data]                                        | Bailey Hayes                           |          |
-| [proxy-wasm/spec][wasi-proxy-wasm] (will advance as multiple, smaller proposals)    | Piotr Sikora                           |          |
+| [proxy-wasm/spec][wasi-proxy-wasm] (will advance as multiple, smaller proposals) | Piotr Sikora | |
 
 ## Versioning
 
